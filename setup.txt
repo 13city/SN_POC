@@ -1,0 +1,14 @@
+Create virtual environment
+python3 -m venv emailsentiment
+
+# Activate Venev like a boss or on macOS
+source emailsentiment/bin/activate  # For macOS/Linux
+
+# Activate Venv on the worst kernel and OS ever made
+.\emailsentiment\Scripts\activate  # For Windows
+
+# Dependencies
+pip install transformers torch torchvision
+
+
+
