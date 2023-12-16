@@ -31,7 +31,7 @@ python3 -m venv emailsentiment
 # Activate Venv on macOS/Linux
 source emailsentiment/bin/activate
 
-# Activate Venv on Windows
+# Activate Venv on Windows (ewww)
 \emailsentiment\Scripts\activate
 ```
 
@@ -68,8 +68,8 @@ _**Note:** PyTorch was chosen for its developer-friendly interface and dynamic c
 ## Running the Tests 🧪
 Execute the unit tests to validate the system's integrity:
 ```sh
-python -m unittest unit_test_sentiment.py
-python -m unittest unit_test_poc_data.py
+python3 unittest unit_test_sentiment.py
+python3 unittest unit_test_poc_data.py
 ```
 
 ## Contributing 👥
