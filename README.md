@@ -3,7 +3,7 @@
 ## Overview 🌟
 Welcome to **EmailSentiment**, a POC sentiment analysis tool designed specifically for B2B email communication. At the heart of EmailSentiment, we utilize the power of deep learning with PyTorch and the Hugging Face transformers library to decode the nuances of business correspondence.
 
-The POC goes beyond mere word counting. It dives into the contextual understanding of email responses, accurately classifying them into sentiments that truly resonate with the human emotional spectrum: _Interested_, _Neutral_, or _Not Interested_.
+The POC goes beyond mere word counting. It dives into the contextual understanding of email responses, accurately classifying them into sentiments that truly resonate with the human emotional spectrum: _Interested_, _Neutral_, or _Not Interested_. I am not a professional or skilled software engineer. This is intended to just be a way to express my idea.
 
 ## Features 🛠️
 - **Deep Learning Powered**: Built on the robust PyTorch framework with the finesse of Hugging Face's transformer models.
@@ -18,12 +18,10 @@ The POC goes beyond mere word counting. It dives into the contextual understandi
 - Python 3.x
 - PyTorch, TorchVision, and Transformers
 
+
+
+
 ### Setting Up Your Environment 🌐
-Clone the repository:
-```sh
-git clone https://github.com/your-github-username/emailsentiment.git
-cd emailsentiment
-```
 
 Create and activate the virtual environment:
 ```sh
@@ -34,7 +32,13 @@ python3 -m venv emailsentiment
 source emailsentiment/bin/activate
 
 # Activate Venv on Windows
-.\emailsentiment\Scripts\activate
+\emailsentiment\Scripts\activate
+```
+
+Clone the repository:
+```sh
+git clone https://github.com/your-github-username/emailsentiment.git
+cd emailsentiment
 ```
 
 Install dependencies:
@@ -75,5 +79,5 @@ Your insights and code contributions are what make this community vibrant and re
 This POC project is liberally licensed under the Biff Jam License. Feel free to use it as you see fit. Sharing is caring. 
 
 ## Questions or Feedback 📬
-Have a question or feedback? Reach out to me through the support chat.
+Have a question or feedback? Reach out to me through the support chat. 
 
