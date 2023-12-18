@@ -37,7 +37,7 @@ source emailsentiment/bin/activate
 
 Clone the repository:
 ```sh
-git clone https://github.com/your-github-username/emailsentiment.git
+git clone https://github.com/13city/SN_POC/blob/main/README.md
 cd emailsentiment
 ```
 
