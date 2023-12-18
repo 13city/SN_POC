@@ -1,4 +1,4 @@
-# 📧 EmailSentiment: B2B Email Sentiment Analysis
+# 📧 EmailSentiment - B2B Email Sentiment Analysis
 
 ## Overview 🌟
 Welcome to **EmailSentiment**, a POC sentiment analysis tool designed specifically for B2B email communication. At the heart of EmailSentiment, we utilize the power of deep learning with PyTorch and the Hugging Face transformers library to decode the nuances of business correspondence.
